@@ -15,3 +15,8 @@ https://www.makeuseof.com/tag/arduino-camera-projects/
 5 Arduino Power Saving Tips That’ll Keep Yours Running for Days
 <br>
 https://www.makeuseof.com/tag/arduino-power-saving-tips/
+
+15 Great Arduino Projects for Beginners
+<br />
+https://www.makeuseof.com/tag/10-great-arduino-projects-for-beginners/
+
